@@ -1,3 +1,3 @@
 # apnacollege
 <br>
-author - ganesh gupta
+author - ganesh vijaykumar gupta
